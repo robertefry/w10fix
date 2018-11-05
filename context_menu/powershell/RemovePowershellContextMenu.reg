@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\02MenuPowerShell]
+[-HKEY_CLASSES_ROOT\Directory\background\shell\02MenuPowerShell]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuPowerShell\shell\open]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuPowerShell\shell\open\command]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuPowerShell\shell\runas]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuPowerShell\shell\runas\command]

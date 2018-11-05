@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\03MenuGit]
+[-HKEY_CLASSES_ROOT\Directory\background\shell\03MenuGit]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuGit\shell\git_gui]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuGit\shell\git_gui\command]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuGit\shell\git_shell]
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuGit\shell\git_shell\command]
